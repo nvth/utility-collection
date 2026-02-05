@@ -1,6 +1,0 @@
-Windows Registry Editor Version 5.00
-
-; Auto-run C:\alias\cmd.cmd to load DOSKEY aliases for the current user.
-; This matches the folder created by setup-aliases.bat.
-[HKEY_CURRENT_USER\Software\Microsoft\Command Processor]
-"AutoRun"="C:\\alias\\cmd.cmd"
